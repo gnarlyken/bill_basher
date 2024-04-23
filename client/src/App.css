@@ -1,0 +1,43 @@
+html {
+  width: 100%;
+  height: 100%;
+  background-color: #76a4b1;
+}
+
+body {
+  margin: 0;
+  background-color: #f78a93;
+}
+
+bg-color {
+  background-color: #76a4b1;
+}
+
+center {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.pt-5 {
+  padding-top: 5px;
+}
+
+.pt-4 {
+  padding-top: 4px;
+}
+
+.text-dec-none {
+  text-decoration: none;
+}
